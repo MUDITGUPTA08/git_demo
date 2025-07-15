@@ -1,2 +1,3 @@
 import os
-import matplotlib.pylot as plt
+
+print(os.getcwd())
